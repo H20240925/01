@@ -176,12 +176,12 @@
 
   
   .conBox03 .swiper-container {
-    height: 260px;
+    height: 235px;
     transform: scale(.7);
   }
 
   .bottom {
-    margin-top: 50px;
+    margin-top: 10px;
   }
 
   .bottom>div {
