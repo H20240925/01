@@ -109,9 +109,10 @@
   }
 
   .popup {
-    width: 345px;
-    height: 600px;
+    width: 80%;
+    height: 80%;
     background-size: cover;
+
   }
 
   /* .popup::after {
@@ -175,7 +176,7 @@
 
   
   .conBox03 .swiper-container {
-    height: 350px;
+    height: 260px;
   }
 
   .bottom {

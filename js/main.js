@@ -177,7 +177,7 @@ $(function () {
         },
         // 425px 이상일 때 설정
         425: {
-          slidesPerView: 1.1,
+          slidesPerView: 1.2,
           spaceBetween: 10,
         },
         // 0px 이상일 때 설정 (모바일 디바이스)
