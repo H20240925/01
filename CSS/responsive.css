@@ -177,6 +177,7 @@
   
   .conBox03 .swiper-container {
     height: 260px;
+    transform: scale(.7);
   }
 
   .bottom {
